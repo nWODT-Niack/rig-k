@@ -1,4 +1,4 @@
-# Convention
+# Conventions
 
 *diagramme vocabulaire*
 
@@ -6,6 +6,8 @@ Valet = 15
 Reine = 20  
 Roi = 25  
 As = 30 *(ou wildcard ? quid du joker ?)*
+
+*Symbole xxxx pour exprimer « n’importe quelle carte »*
 
 # Astronavigation
 
@@ -21,7 +23,7 @@ Le point d'arrivée est exprimé par le MJ avec quatre valeurs : vecteur vitesse
 
 Et ainsi de suite jusqu'à ce que les PJ atteignent le score ou épuisent leurs cartes.
 
-Lors de la fin de la phase d'astronavigation, le delta entre les valeurs du PJ et ceux du MJ sont passés en paramètres pour la phase suivante. Plus le delta est grand, plus la situation est mauvaise *(tableau)*.
+Lors de la fin de la phase d'astronavigation, le MJ révèle ses cartes. Le delta entre les valeurs du PJ et ceux du MJ sont passés en paramètres pour la phase suivante. Plus le delta est grand, plus la situation est mauvaise *(tableau)*.
 
 ## Facteurs possibles
 

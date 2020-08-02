@@ -1,6 +1,6 @@
 # Aperçu
 
-![Gliese 667 Stellar System](https://raw.githubusercontent.com/nWODT-Cobalt/rig-k/master/assets/lore/astronomie/gliese-667.png)
+![Gliese 667 Stellar System](assets/lore/astronomie/gliese-667.png)
 
 Système Gliese 667 (142 G., constellation du [Scorpion](http://en.wikipedia.org/wiki/Scorpius)). Tel que connu à ce jour, il comprend 3 étoiles et 7 planètes :
 
