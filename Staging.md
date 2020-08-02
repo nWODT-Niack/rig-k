@@ -322,6 +322,29 @@ Xénobiologie
 
 Topics include the history of the idea of extraterrestrial life; comparative planetology, stars, and galaxies; xenobiology (definition/origin of life, exotic biochemistries, and possible alien bioenergetics, biomechanics, sensations, reproduction, and intelligence); extraterrestrial civilizations (energy sources, biotechnology, interstellar travel, alien weapons, planetary and stellar engineering, xenosociology, and extraterrestrial governments and culture); interstellar communication techniques; and the sociology, legal issues, and appropriate interaction protocols pertaining to first contact.
 
+Modificateurs environnementaux
+----
+
+#### Interplanétaires
+
+##### Eruptions stellaires
+
+L'activité et les interactions complexes des trois étoiles du système de Gliese 667 induit un certain nombre de pertubations et de risques pour tout occupant du système:
+- Radiations UV et X : exposition de long terme des personels et des matériels ;
+- Echauffement de l'atmosphère : réduction de la durée de vie des satellites en orgite basse ;
+- Tempêtes géomagnétiques (par éjection de masse coronale) : pertubations des champs magnétiques des planêtes qui en sont dotées, dégats aux satellites en orbite haute ;
+- Fluctuation des champs magnétiques planétaires entrainant des courants telluriques : égats aux long réseaux electriquies au sol ;
+- Vagues de particules (?) : court-circuits, ruptures d'alimentation, voire mise hors service definitive d'un satellite.
+
+##### Orbites saturées en débris / anneaux planétaires
+
+Sans aller jusqu'à un effet Kessler, une collision de deux corps massifs (engins spatiaux) en orbite planétaire produit un champ de débris orbitant une planète à une periode donnée, de quelques minutes à quelques heures. Les anneaux planetaires sont une version extrême de ce danger.
+Sur une orbite interplanétaire, ls effets d'une collision sont virtuellement négligeables.
+
+;ll;ka
+
+
+
 ---
 
 https://www.wired.com/2014/06/toyota-semiconductors-evs/
