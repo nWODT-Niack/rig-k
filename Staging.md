@@ -329,7 +329,7 @@ Modificateurs environnementaux
 
 ##### Eruptions stellaires
 
-L'activité et les interactions complexes des trois étoiles du système de Gliese 667 induit un certain nombre de pertubations et de risques pour tout occupant du système:
+L'activité et les interactions complexes des trois étoiles du système de Gliese 667 induit un certain nombre de pertubations et de risques pour tout occupant du système :
 - Radiations UV et X : exposition de long terme des personels et des matériels ;
 - Echauffement de l'atmosphère : réduction de la durée de vie des satellites en orgite basse ;
 - Tempêtes géomagnétiques (par éjection de masse coronale) : pertubations des champs magnétiques des planêtes qui en sont dotées, dégats aux satellites en orbite haute ;
@@ -345,9 +345,35 @@ Sur une orbite interplanétaire, ls effets d'une collision sont virtuellement n�
 
 Un corps planétoïde relativement massif peut entraîner des pertubations magétiques, soit par une activité tellurique intense, soit par une composition métallique particulière. L'instrumention en orbite proche ou au sol s'en trouve perturbée.
 
+##### Couverture satellite limitée
 
+Interruption prévisible des communications depuis la surface d'un corps. 
+- Couverture satellitaire incomplète ;
+- Phénomènes météorologiques.
 
+##### Ejecta 
 
+Corps planétoïde 
+- Colvanisme : ejecta pyroclastique de cendres, magma, roches ; 
+- Cryo-volcanisme : ejecta de vapeur d'eau, glace.
+
+##### Phenomènes atmosphériques et planétaires
+
+- Température ;
+- Pression ; 
+- Vents résultants ;
+- Opacité ;
+- Gaz ionisés ;
+- Tellurisme ;
+- Autres?
+
+##### Impulsion electro-magnétique d'origine humaine 
+
+Arme ou sonar.
+
+##### Gravité / Tellurisme
+
+Moifications locales de gravité, par interaction de corps ou par tellurisme
 
 ---
 
